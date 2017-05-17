@@ -1,0 +1,3 @@
+[submodule "app/mobileSSI"]
+	path = app/mobileSSI
+	url = https://github.com/hcmlab/mobileSSI.git
